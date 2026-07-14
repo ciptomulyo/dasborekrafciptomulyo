@@ -65,7 +65,7 @@ export default function ProfileSection() {
               &ldquo;Di Kelurahan Ciptomulyo, kami senantiasa berupaya mewujudkan lingkungan yang sehat, berbudaya, asri, dan aman melalui semangat kebersamaan serta partisipasi aktif masyarakat. Melalui peningkatan kualitas pelayanan, kesehatan masyarakat, serta pembangunan yang ramah lingkungan, kami berkomitmen menciptakan lingkungan yang nyaman dan meningkatkan kesejahteraan masyarakat. Terima kasih atas perhatian dan dukungan seluruh pihak dalam membangun Kelurahan Ciptomulyo.&rdquo;
             </p>
             <div className="pt-2">
-              <p className="text-sm font-bold text-slate-900 font-sans">Dedy Surfianto, SE</p>
+              <p className="text-sm font-bold text-slate-900 font-sans">Dedy Surfianto, S.E.</p>
               <p className="text-xs sm:text-sm text-slate-500 font-sans">Lurah Ciptomulyo, Kecamatan Sukun, Kota Malang</p>
             </div>
           </div>
