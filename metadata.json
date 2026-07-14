@@ -1,0 +1,6 @@
+{
+  "name": "Dashboard Ekonomi Kreatif Ciptomulyo",
+  "description": "Dasbor ekonomi kreatif dan katalog interaktif Ekraf unggulan Kelurahan Ciptomulyo, Kecamatan Sukun, Kota Malang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
