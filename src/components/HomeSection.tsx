@@ -65,8 +65,8 @@ export default function HomeSection({ setActiveTab, setSelectedUmkmId }: HomeSec
             <iframe
               id="youtube-profile-iframe"
               className="w-full h-full"
-              src="https://www.youtube.com/embed/AgI0DpPR8Mc"
-              title="Video Profil Kelurahan Ciptomulyo"
+              src="https://www.youtube.com/embed/I1MRtHKo4p8?si=RLqMNtJ1Y-f2OhrA"
+              title="Video Branding Ekonomi Kreatif Kelurahan Ciptomulyo"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerPolicy="strict-origin-when-cross-origin"
               allowFullScreen
