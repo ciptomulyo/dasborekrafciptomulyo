@@ -8,13 +8,13 @@
 2. Run the app:
    `npm run dev`
 
-## Built by Tim KKN Desa Cantik Kel. Ciptomulyo Universitas Brawijaya
+## Built by KKN Desa Cantik Kel. Ciptomulyo Universitas Brawijaya 2026 Team
 
-1. Ocha
-2. Fahrul
-3. Chealsi
-4. Ammar
-5. Amira
-6. Samuel
-7. Farid
-8. Lintang
+1. S. Rocha Khabibah Nur ‘Aini
+2. Fahrul Hidayattulloh
+3. Laudya Dechealsi Putri Priyanto
+4. Ammar Muhammad Al Faatih 
+5. Amira Salwa 
+6. Samuel Keanu Johosua Doda
+7. Farid Rifqi Rahmadani 
+8. Lintang Asmara
